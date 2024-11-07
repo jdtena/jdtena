@@ -1,4 +1,9 @@
 ## Hi there 👋
+I am an Industrial Engineer with more than 20 years of experience in Innovation and Digital Transformation.
+After many years dedicated to the management of companies and teams, I want to return to everything related to the exciting world of Software Engineering.
+So, indeed, I am a student again and it is time to relearn again.
+I will be happy to contribute to the community as soon as my knowledge allows it.
+By the way, I am Chema for friends.
 
 <!--
 **jdtena/jdtena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
